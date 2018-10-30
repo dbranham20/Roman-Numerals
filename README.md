@@ -9,12 +9,14 @@ Method: Create and implement a Finite state machine.  It should have a next stat
 
  
 Sample Input:
+
 IV
 XIII
 XIIII
 XIV
 
 Sample Output:
+
 IV = 4
 XIII = 13
 XIIII = error, not a Roman Number
