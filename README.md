@@ -18,5 +18,5 @@ Create and implement a Finite state machine.  It should have a next state table 
 #### Sample Output
 - IV = 4
 - XIII = 13
-- XIIII = error, not a Roman Number
+- XIIII = error, not a Roman Numeral
 - XIV = 14`
